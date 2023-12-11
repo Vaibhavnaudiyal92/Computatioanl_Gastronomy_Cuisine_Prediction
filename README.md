@@ -1,4 +1,4 @@
-# Computatioanl_Gastronomy_Cuisine_Prediction
+# Computational_Gastronomy_Cuisine_Prediction
 
 # Introduction
 RecipeDB is one of the popular datasets developed by Complex Systems Laboratory which contains details about roughly 50,000 recipes from all around the world in well documented manner. One of the complex problems that can be solved using this data is of Cuisine Prediction. Can a machine learning model be developed which can accurately predict the Cuisine to which a recipe belongs? In this project we will be trying to do exactly that! The dataset used is a part of RecipeDB dataset along with standard machine learning and mathematical libraries like sklearn, numpy, pandas, etc.
