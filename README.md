@@ -31,7 +31,7 @@ In this section, we will be applying different sets of machine learning models o
 5.  Naive Bayes
 
 ### Applying SMOTE
-In the last part of pre-processing, we will be apply **SMOTE** which is a sampling technique. Inorder to remove any kind of bias or discrepency in the model training, we will be sampling the data on the basis of target variable so that equal number of examples are generated for each class of target variable.
+In the last part of pre-processing, we will be applying **SMOTE** which is a sampling technique. Inorder to remove any kind of bias or discrepency in the model training, we will be sampling the data on the basis of target variable so that equal number of examples are generated for each class of target variable.
 
 # Conclusion
 With hyperparameter tuning of n_estimators of Random Forest, we got a mean cross-validation score of **85.5%** which is **0.5%** better than base Random Forest model. Ensemble and Boosting algorithm seemed to outperform linear, probabilistic and tree based models. This is again confirmed by Precision and Recall curves.
